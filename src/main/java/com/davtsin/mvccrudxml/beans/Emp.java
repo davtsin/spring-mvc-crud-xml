@@ -1,4 +1,4 @@
-package com.davtsin.mvccrud.beans;
+package com.davtsin.mvccrudxml.beans;
 
 public class Emp {
     private int id;

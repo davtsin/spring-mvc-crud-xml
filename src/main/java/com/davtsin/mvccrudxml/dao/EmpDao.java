@@ -1,6 +1,6 @@
-package com.davtsin.mvccrud.dao;
+package com.davtsin.mvccrudxml.dao;
 
-import com.davtsin.mvccrud.beans.Emp;
+import com.davtsin.mvccrudxml.beans.Emp;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;

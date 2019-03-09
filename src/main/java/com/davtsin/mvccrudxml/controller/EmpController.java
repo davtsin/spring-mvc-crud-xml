@@ -1,7 +1,7 @@
-package com.davtsin.mvccrud.controller;
+package com.davtsin.mvccrudxml.controller;
 
-import com.davtsin.mvccrud.beans.Emp;
-import com.davtsin.mvccrud.dao.EmpDao;
+import com.davtsin.mvccrudxml.beans.Emp;
+import com.davtsin.mvccrudxml.dao.EmpDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
